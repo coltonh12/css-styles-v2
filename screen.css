@@ -14,4 +14,10 @@
     left: 50%;
     transform: translate(-50%, -50%);
   }
+
+  p {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 600px; /* Optional: Adjust max-width to your preference */
+  }
   
